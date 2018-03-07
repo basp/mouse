@@ -1,8 +1,8 @@
-﻿using System;
-using System.Diagnostics;
-
-namespace Mouse
+﻿namespace Mouse
 {
+    using System;
+    using System.Diagnostics;
+
     public class VM<T>
     {
         private T state;
