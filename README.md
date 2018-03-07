@@ -1,2 +1,2 @@
 # mouse
-A VM kind of thingy. Experimental.
+A functional VM kind of thingy. Experimental.

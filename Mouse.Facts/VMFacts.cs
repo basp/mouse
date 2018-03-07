@@ -1,14 +1,13 @@
-using System;
-using Xunit;
-
 namespace Mouse.Facts
 {
+    using System;
+    using Xunit;
+
     public class VMFacts
     {
         [Fact]
-        public void Sandbox()
+        public void EmptyQueue()
         {
-
         }
     }
 }
